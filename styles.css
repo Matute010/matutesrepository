@@ -1,0 +1,161 @@
+* { 
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    background-color: #46494C !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.card-img-top { 
+    width: 268px;
+    height: 300px;
+}
+
+.card {
+   margin-left: 40%;
+   margin-right: 40%;
+   margin-top: 90px;
+   margin-bottom: 90px;
+}
+
+
+.card-title { 
+    padding-right: 30px;
+}
+
+.card-text { 
+    text-align: center;
+}
+
+.imagenes { 
+    width: 90%;
+    height: 90%;
+    border-radius: 5px;
+}
+
+.container { 
+    padding-left: 20%;
+}
+
+h2 { 
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    color: #454851;
+    font-weight: bold;
+}
+
+.secondpart { 
+    background-color: #639FAB;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+#yo { 
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+#aboutme { 
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.form-edit { 
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.labelmensaje { 
+    display: block;
+    margin-bottom: 5px
+}
+
+.textareamensaje { 
+    display: block;
+    resize: vertical;
+    padding-right: 790px;
+}
+
+.btn { 
+    margin-top: 10px; 
+}
+
+h4, h5 {
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    color: #454851;
+    font-weight: bold;
+    margin: 10px 0; 
+}
+  
+h4 {
+    text-align: right; 
+    padding-right: 200px;
+}
+  
+h5 {
+    text-align: left; 
+    padding-right: 40px;
+}
+  
+.container1 { 
+    padding-left: 12px;
+}
+
+#direcciónfooter { 
+    margin-left: 210px;
+}
+
+.footer { 
+    padding: 8%;
+    background-color: #B88B4A;
+}
+
+.buttons1 { 
+    min-width: 700px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 200px;
+    padding-top: 5px;
+}
+
+.buttons1 a {
+    text-decoration: none;
+    font-size: 24px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background: #314652;
+    color: #f1f1f1;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    transition: all .4s ease-in-out;
+}
+
+.buttons a:hover {
+    transform: scale(1.2);
+}
+
+#direcciónfooter { 
+    font-size: 20px;
+}
+
+#copy { 
+    text-align: center;
+    padding-top: 20px;
+    background-color: #46494C;
+}
+
+.nav-link { 
+    color: #FFFFFF;
+}
+
+.navbar-brand { 
+    color: #FFFFFF;
+}
